@@ -1,11 +1,10 @@
-PLUGIN WP CUSTOM POST TYPE
-==
+# PLUGIN WP CUSTOM POST TYPE
 
-# Description
+## Description
 
 > Mini plugin for Custom Post Type creation
 
-# Credits
+## Credits
 
 * **Author**: Claire Bourdalé
 * **License**: GLP-v2 or later
